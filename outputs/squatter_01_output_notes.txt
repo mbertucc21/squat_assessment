@@ -1,0 +1,79 @@
+(400, 640, 3)
+
+
+(1, 44, 46, 46)
+
+
+time taken by network : 6.231
+
+
+00 - Head: (306, 26)
+01 - Neck: (306, 86)
+02 - R Shoulder: (264, 104)
+03 - R Elbow: (250, 147)
+04 - R Wrist: (431, 104)
+05 - L Shoulder: (333, 104)
+06 - L Elbow: (403, 104)
+07 - L Wrist: (445, 104)
+08 - R Hip: (222, 208)
+09 - R Knee: (292, 234)
+10 - R Ankle: (250, 330)
+11 - L Hip: (264, 208)
+12 - L Knee: (347, 226)
+13 - L Ankle: (306, 321)
+14 - Chest: (264, 156)
+
+
+Checking to see if hips are even...
+Hip Coordinates (with 10% margin): (187.20000000000002, 208, 228.8)
+***CHECK COMPLETE: Even Hips 
+
+Checking to see if knees are even...
+Knee Coordinates (with 10% margin): (203.4, 234, 248.60000000000002)
+***CHECK COMPLETE: Even Knees 
+
+Checking to see if ankles are even...
+Ankle Coordinates (with 10% margin): (288.90000000000003, 330, 353.1)
+***CHECK COMPLETE: Even Ankles 
+
+Even Pose
+
+
+Checking hips from knees...
+Left hip from knees (y-dir): (166.4, 226, 274.56)
+Right hip from knees (y-dir): (166.4, 234, 274.56)
+***CHECK COMPLETE: Hips +/- 20% from knees 
+
+Checking ankle tuck...
+If subject is facing left, left ankle tuck (x-dir): (199.8, 250, 321.20000000000005)
+If subject is facing left, right ankle tuck (x-dir): (237.6, 306, 381.70000000000005)
+If subject is facing right, right ankle tuck (x-dir): (244.20000000000002, 250, 262.8)
+If subject is facing right, left ankle tuck (x-dir): (290.40000000000003, 306, 312.3)
+***CHECK COMPLETE: Ankles tucked between knees and hips 
+
+
+
+####################
+SUBJECT IS SQUATTING
+####################
+
+
+Checking if you should lower hips...
+(226, 255.84)
+(234, 255.84)
+***CHECK COMPLETE: Hips in good position 
+
+Checking posture...
+Hips to chest slope is: 2.4761904761904763
+***CHECK COMPLETE: Chest/Hips in good position 
+
+Checking Shoulders and Ankles...
+Left shoulder +/- 20% from ankles (x-dir): (244.8, 333, 367.2)
+Right shoulder +/- 20% from ankles (x-dir): (200.0, 264, 300.0)
+***CHECK COMPLETE: Shoulders in good position relative to ankles 
+
+
+
+Great Squatting Form!!!
+
+Process finished with exit code 0

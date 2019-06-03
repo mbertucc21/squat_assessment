@@ -1,0 +1,2 @@
+To request a download of the pre-trained pose estimation models, please go to:
+https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/
