@@ -9,6 +9,8 @@ https://github.com/spmallick.  THIS PARTICULAR CODE UTILIZES THE 'OPENPOSE' REPO
 DIRECTORY.  PLEASE VISIT https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/
 TO SEE HOW TO DOWNLOAD THE PRE-TRAINED MODEL NEEDED TO RUN THIS PROGRAM.
 
+My general comments:
+
 The Below Code will take in an input image (shot with an iphone) and resized to about 640 h x 480 w
 (however, when developing this program, I did not constantly feed in 640 x 480 data).
 
