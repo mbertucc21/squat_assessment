@@ -1,5 +1,5 @@
 # squat_assessment
-Developed program to take in input images and determine if the subject (human) is completing a squat and provides feedback (please check out the 'outputs' folder).  Utilized OpenCV, NumPy and Matplotlib libraries.
+Developed a program to take in input images and determine if the subject (human) is completing a squat and provides feedback (please check out the 'outputs' folder).  Utilized OpenCV, NumPy and Matplotlib libraries.
 
 Tested on random images obtained online as well as test images of myself (which I chose not to upload).  Please note you will need to download the pre-trained pose estimation model to have this program work.  See details below.
 
